@@ -15,7 +15,7 @@ Relevant data
 
 ### Current activities / hobbies / side-projects
 - [Kazuki](https://github.com/SketchyLxve/Kazuki)
-- [Flag Parser](https://github.com/SketchyLxve/flag-parser)
+- [[CLI] Flag Parser](https://github.com/SketchyLxve/cli-fp)
 - [SEC](https://github.com/SketchyLxve/SEC) (Misleading name, but they are algorithms written in Rust)
 
 ### Learning
