@@ -19,9 +19,9 @@ Relevant data
 - [SEC](https://github.com/SketchyLxve/SEC) (Misleading name, but they are algorithms written in Rust)
 
 ### Learning
-- ➕ C++
-- 🦀 Rust
-- 📜 Typescript
+- <img align="center" height="15" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">⠀- C++
+- <img align="center" height="15" src="https://rustacean.net/assets/cuddlyferris.png"> - Rust
+- <img align="center" height="15" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">⠀- Typescript
 
 ### How to reach me
 - Discord: `xanax#1327`
