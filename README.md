@@ -6,8 +6,11 @@ I am a 16 year old male born, and raised, in [Bosnia & Herzegovina](https://en.w
 <br>
 
 
-### Relevant data
-![SketchyLxve's github stats](https://github-readme-stats.vercel.app/api?username=SketchyLxve&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SketchyLxve)](https://github.com/SketchyLxve/github-readme-stats)
+Relevant data
+===
+<img align="left" alt="Sketchy's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=SketchyLxve&show_icons=true&theme=dracula&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SketchyLxve)](https://github.com/SketchyLxve/github-readme-stats)
 
 
 ### Current activities / hobbies / side-projects
