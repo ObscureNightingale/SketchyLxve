@@ -1,7 +1,7 @@
 Sketchy
 ===
-Hello, my nickname is Kenny, more commonly referred to as "Ken" by my friends. <br>
-I am a 16 year old male born, and raised, in [Bosnia & Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina). My real name isn't actually "Kenny", but rather "Mladen".
+
+Mladen; 16 year old male from Bosnia & Herzegovina
 
 <br>
 
@@ -27,9 +27,8 @@ Relevant data
 ### How to reach me
 - Discord: `xanax#1327`
 - Twitter: [@eboy_sleepy](https://twitter.com/eboy_sleepy)
-- Gmail (weirdos): twitchisawesome123@gmail.com
+- Gmail: mg.capljina@gmail.com
 
 Additional Information
 ===
 - Pronouns: He/Him
-- Ways of income (jobs): Private rosary business and assisting other students
