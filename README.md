@@ -8,9 +8,9 @@ Mladen; 16 year old male from Bosnia & Herzegovina
 
 Relevant data
 ===
-<img align="left" alt="Sketchy's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=ObscureNightingale&show_icons=true&theme=dracula&include_all_commits=true" />
+<img align="left" alt="ntwrk's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=ObscureNightingale&show_icons=true&theme=dracula&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SketchyLxve)](https://github.com/ObscureNightingale/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObscureNightingale)](https://github.com/ObscureNightingale/github-readme-stats)
 
 
 ### Current activities / hobbies / side-projects
