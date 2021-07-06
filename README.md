@@ -1,7 +1,7 @@
 ntwrkobscure
 ===
 
-Mladen; 16 year old male from Bosnia & Herzegovina
+Mladen; 17 year old male from Bosnia & Herzegovina
 
 <br>
 
@@ -25,7 +25,7 @@ Relevant data
 - <img align="center" height="30" src="https://img.icons8.com/officel/2x/haskell.png"> - Haskell
 
 ### How to reach me
-- Discord: `,.#1327`
+- Discord: `sadie's#4478`
 - Twitter: [@eboy_sleepy](https://twitter.com/eboy_sleepy)
 - Gmail: mg.capljina@gmail.com
 
