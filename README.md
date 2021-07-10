@@ -25,7 +25,7 @@ Relevant data
 - <img align="center" height="30" src="https://img.icons8.com/officel/2x/haskell.png"> - Haskell
 
 ### How to reach me
-- Discord: `sadie's#4478`
+- Discord: `sadie's#1208`
 - Twitter: [@eboy_sleepy](https://twitter.com/eboy_sleepy)
 - Gmail: mg.capljina@gmail.com
 
